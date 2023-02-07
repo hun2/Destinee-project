@@ -1,4 +1,4 @@
-# destinee-project
+# La destinee-project
 랜덤영상통화 및 소셜네트워크 서비스 <br><br>
 
 ## Getting Started ##
