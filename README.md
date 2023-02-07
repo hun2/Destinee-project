@@ -14,7 +14,7 @@ La destinee 소셜 커넥트 서비스를 제공합니다.
 
 
 ## 🗂Notion (작업일지) ## 
-https://www.notion.so/73251c23ad694c42a01a716a93d2222e?v=9fe4cc5f485644c6a235a8d4b0ddc8c0
+https://www.notion.so/42ee533fa6a54aa39d6b4bf5ba2d68cb?v=b8eed8153c104ef88e5913eb607d510c
 <br><br>
 
 ## 보고서 ##
